@@ -5,7 +5,7 @@ gulp
 
 > gulp.task()
 * 用来定义任务，内部使用的是Orchestrator
-*gulp.task('default',function(){console.log('hello world');});
+* gulp.task('default',function(){console.log('hello world');});
 
 > gulp.src()
 * 用来读取需要操作的文件
